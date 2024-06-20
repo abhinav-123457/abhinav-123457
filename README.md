@@ -34,7 +34,7 @@ HE/HIM
 - B.Tech - CSE with specialization in Artificial Intelligence And Machine Learning , SRM INSTUITUTE OF SCIENCE AND TECHNOLOGY , 2023-2027...
 
 ## Projects 🗃️
-- Stable-Diffusion-Image-Generator
+- [Stable-Diffusion-Image-Generator](https://github.com/abhinav-123457/stable-diffusion-image-generator)
 
 ## WILLING 🤝 : 
 To work as an Intern after the completion of 1st year
