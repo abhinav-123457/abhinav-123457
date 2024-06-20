@@ -35,4 +35,5 @@ To work as an Intern after the completion of 1st year
 
 ## Contact
 - Email: abhinavshakya063@gmil.com
+<br>
 <a href="https://linkedin.com/in/abhinav-shakya-a6ab28244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav shakya" height="30" width="40" /></a>
