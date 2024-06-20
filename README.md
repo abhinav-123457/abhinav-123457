@@ -34,7 +34,7 @@ HE/HIM
 - B.Tech - CSE with specialization in Artificial Intelligence And Machine Learning , SRM INSTUITUTE OF SCIENCE AND TECHNOLOGY , 2023-2027...
 
 ## Projects 🗃️
-- COMING SOON...
+- Stable-Diffusion-Image-Generator
 
 ## WILLING 🤝 : 
 To work as an Intern after the completion of 1st year
