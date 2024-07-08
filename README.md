@@ -33,6 +33,7 @@ HE/HIM
 ## Projects 🗃️
 - [Stable-Diffusion-Image-Generator](https://github.com/abhinav-123457/stable-diffusion-image-generator)
 - [Diabetes-Prediction-System](https://github.com/abhinav-123457/Diabetes-Prediction-System)
+- [CYPHER AI CHATBOT](https://github.com/abhinav-123457/CYPHER)
 ## WILLING 🤝 : 
 To work as an Intern after the completion of 1st year
 
