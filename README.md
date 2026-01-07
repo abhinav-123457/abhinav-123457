@@ -42,7 +42,8 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav-123457&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhinav-123457&theme=radical&hide_border=true)
 
 
 <p align="center">
