@@ -40,6 +40,7 @@
 </p>
 
 ---
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinav-123457&show_icons=true&theme=radical)
 
 <h3 align="center">📊 GitHub Stats</h3>
 
