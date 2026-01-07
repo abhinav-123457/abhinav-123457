@@ -20,10 +20,10 @@
 
 ---
 
-<h3 align="center">🛠️ Expanded Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
+#### AI/ML Frameworks & Libraries
 <p align="center">
-  <!-- AI/ML Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -31,23 +31,29 @@
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Ultralytics-005571?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics" />
-  <br><br>
-  <!-- Data & ML Libraries -->
+</p>
+
+#### Data Processing & ML Tools
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK" />
   <img src="https://img.shields.io/badge/Diffusers-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Diffusers" />
   <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
-  <br><br>
-  <!-- Edge & Embedded -->
+</p>
+
+#### Edge Computing & Embedded Systems
+<p align="center">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A2281E?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS- C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi OS" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Edge%20AI-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Edge AI" />
-  <br><br>
-  <!-- Web & Tools -->
+</p>
+
+#### Web Development & Tools
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
