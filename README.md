@@ -27,6 +27,7 @@
 #### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,6 +36,7 @@
 
 #### 🎨 Frontend Development
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -42,6 +44,7 @@
 
 #### ⚙️ Backend Development
 <p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -64,6 +67,7 @@
 
 #### 💾 Databases
 <p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -76,8 +80,9 @@
   <img src="https://img.shields.io/badge/Edge%20AI-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-#### 🔨 Developer Tools
+#### 🚀 Deployment & Tools
 <p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -91,27 +96,27 @@
 
 <p align="center">
 
-**Claims AI Processor** – High-accuracy car damage detection using YOLO  
+**Claims AI Processor** – Accurate vehicle damage detection using YOLO  
 [View Repository](https://github.com/abhinav-123457/Claims-AI-Processor)
 
 <br><br>
 
-**AI-Powered Drone Vision** – Real-time object detection on edge devices (Jetson Nano & Raspberry Pi)  
-[View Repository](https://github.com/abhinav-123457) *(Ongoing work across multiple repos)*
+**AI-Powered Drone Vision** – Real-time object detection & navigation on Jetson Nano  
+[View Repository](https://github.com/abhinav-123457?tab=repositories) *(Active development)*
 
 <br><br>
 
-**Stable Diffusion Image Generator** – Text-to-image generation with diffusion models  
+**Stable Diffusion Image Generator** – Create images from text prompts  
 [View Repository](https://github.com/abhinav-123457/stable-diffusion-image-generator)
 
 <br><br>
 
-**Diabetes Prediction System** – ML model for health risk assessment  
+**Diabetes Prediction System** – Predictive ML model for diabetes risk  
 [View Repository](https://github.com/abhinav-123457/Diabetes-Prediction-System)
 
 <br><br>
 
-**CYPHER AI Chatbot** – NLP-powered conversational agent  
+**CYPHER AI Chatbot** – Intelligent conversational AI with NLP  
 [View Repository](https://github.com/abhinav-123457/CYPHER)
 
 </p>
@@ -141,7 +146,7 @@
 </p>
 
 <p align="center">
-  <strong>Impressed? Star my repos ⭐ • Let's collaborate on cutting-edge AI!</strong>
+  <strong>Impressed? Star my repos ⭐ • Let's build something amazing together!</strong>
 </p>
 
 <p align="center">
