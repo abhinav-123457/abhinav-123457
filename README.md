@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav Shakya</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Building the Future with Code</h3>
+<h3 align="center">AI & Machine Learning Student | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Intelligent+Reality;PyTorch+%7C+TensorFlow+%7C+Hugging+Face;Generative+AI+%26+Computer+Vision+Lover;3rd+Year+B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+AI+that+Solves+Real+Problems;PyTorch+%7C+TensorFlow+%7C+Hugging+Face;Generative+AI+%26+Computer+Vision;3rd+Year+B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <strong>🔭 Currently building advanced Generative AI & Computer Vision projects</strong><br>
-  <strong>🌱 Diving deep into Diffusion Models, Transformers & NLP</strong><br>
-  <strong>🚀 Actively seeking AI/ML Internships (Summer 2026 & beyond)</strong>
+  <strong>🔭 Currently working on Generative AI & Computer Vision projects</strong><br>
+  <strong>🌱 Mastering Diffusion Models, Transformers & advanced NLP</strong><br>
+  <strong>🚀 Open to AI/ML Internships (Summer 2026 & beyond)</strong>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,21 +42,21 @@
 <h3 align="center">🔥 Featured Projects</h3>
 
 <p align="center">
-  <strong>Hands-on creations that solve real problems</strong>
+  <strong>Real-world AI solutions I've built</strong>
 </p>
 
 <p align="center">
-  🖼️ <strong>Stable Diffusion Image Generator</strong> – Text-to-image magic powered by diffusion models<br>
-  🩺 <strong>Diabetes Prediction System</strong> – Accurate health risk forecasting with ML<br>
-  🤖 <strong>CYPHER AI Chatbot</strong> – Smart conversational AI using advanced NLP<br>
-  🚗 <strong>Claims AI Processor</strong> – 98%+ accurate car damage detection with YOLOv8<br>
-  💬 <strong>Sentiment Analysis Tool</strong> – Real-time emotion detection from text<br>
-  🔢 <strong>Sorting Algorithm Visualizer</strong> – Interactive visualization of classic algorithms
+  🖼️ <strong>Stable Diffusion Image Generator</strong> – Create stunning images from text prompts<br>
+  🩺 <strong>Diabetes Prediction System</strong> – ML model for early health risk detection<br>
+  🤖 <strong>CYPHER AI Chatbot</strong> – Intelligent conversational agent with NLP<br>
+  🚗 <strong>Claims AI Processor</strong> – 98%+ accurate vehicle damage detection using YOLOv8<br>
+  💬 <strong>Sentiment Analysis Tool</strong> – Instant text emotion classification<br>
+  🔢 <strong>Sorting Algorithm Visualizer</strong> – Interactive demo of classic sorting algorithms
 </p>
 
 <p align="center">
   <a href="https://github.com/abhinav-123457">
-    <img src="https://img.shields.io/badge/Check%20out%20all%20projects%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -79,9 +79,9 @@
 </p>
 
 <p align="center">
-  <strong>Love what you see? Star my repos ⭐ • Let's build something amazing together!</strong>
+  <strong>Like my work? Star a repo ⭐ • Always open to collaboration!</strong>
 </p>
 
 <p align="center">
-  Thanks for stopping by! 👀
+  Thanks for visiting! 👀
 </p>
