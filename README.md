@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [linkedin.com/in/abhinav-shakya-a6ab28244](https://linkedin.com/in/abhinav-shakya-a6ab28244)  
 - ⚡ Fun fact **I love turning complex problems into elegant AI solutions!**
 
-### 🚀 Currently Seeking AI/ML Internships (Summer 2026 & beyond)
+### 🚀 Actively Seeking AI/ML Internships (Summer 2026 & beyond)
 
 ---
 
@@ -44,15 +44,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-123457&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-123457&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-123457&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-123457&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-123457&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-123457&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
