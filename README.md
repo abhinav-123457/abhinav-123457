@@ -44,15 +44,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-123457&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-123457&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=ff00ff&text_color=white" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-123457&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-123457&theme=radical&hide_border=true&background=0d1117&stroke=ff00ff&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&sideLabels=ff00ff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-123457&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-123457&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=white" alt="Top Languages" />
 </p>
 
 ---
