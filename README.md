@@ -2,7 +2,7 @@
 <h3 align="center">AI & Machine Learning Student | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+AI+that+Solves+Real+Problems;PyTorch+%7C+TensorFlow+%7C+Hugging+Face;Generative+AI+%26+Computer+Vision;3rd+Year+B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Crafting+AI+that+Solves+Real+Problems;PyTorch+%7C+TensorFlow+%7C+Hugging+Face;Generative+AI+%26+Computer+Vision;Specializing+in+AI+%26+ML+at+SRM+IST" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,10 @@
 </p>
 
 <p align="center">
-  <strong>🔭 Currently working on Generative AI & Computer Vision projects</strong><br>
-  <strong>🌱 Mastering Diffusion Models, Transformers & advanced NLP</strong><br>
-  <strong>🚀 Open to AI/ML Internships (Summer 2026 & beyond)</strong>
+  <strong>🔭 Currently building Generative AI & Computer Vision projects</strong><br>
+  <strong>🌱 Mastering Diffusion Models, YOLOv8, Transformers & advanced NLP</strong><br>
+  <strong>⚡ Key Achievement: Built Claims AI Processor with 98%+ accuracy in car damage detection</strong><br>
+  <strong>🚀 Open to AI/ML Internships & Collaborations</strong>
 </p>
 
 ---
@@ -39,19 +40,20 @@
 
 ---
 
-<h3 align="center">🔥 Featured Projects</h3>
+<h3 align="center">🔥 Featured Projects & Achievements</h3>
 
 <p align="center">
-  <strong>Real-world AI solutions I've built</strong>
+  <strong>Real-world AI solutions with impactful results</strong>
 </p>
 
 <p align="center">
-  🖼️ <strong>Stable Diffusion Image Generator</strong> – Create stunning images from text prompts<br>
-  🩺 <strong>Diabetes Prediction System</strong> – ML model for early health risk detection<br>
-  🤖 <strong>CYPHER AI Chatbot</strong> – Intelligent conversational agent with NLP<br>
-  🚗 <strong>Claims AI Processor</strong> – 98%+ accurate vehicle damage detection using YOLOv8<br>
-  💬 <strong>Sentiment Analysis Tool</strong> – Instant text emotion classification<br>
-  🔢 <strong>Sorting Algorithm Visualizer</strong> – Interactive demo of classic sorting algorithms
+  🚗 <strong>Claims AI Processor</strong> – Achieved <strong>98%+ accuracy</strong> in vehicle damage detection using YOLOv8<br>
+  🖼️ <strong>Stable Diffusion Image Generator</strong> – High-quality text-to-image generation with diffusion models<br>
+  🩺 <strong>Diabetes Prediction System</strong> – Accurate ML-based health risk prediction<br>
+  🤖 <strong>CYPHER AI Chatbot</strong> – Intelligent conversational AI powered by NLP<br>
+  🍎 <strong>Fruit & Vegetable Recognition Model</strong> – Computer vision for produce classification<br>
+  💬 <strong>Sentiment Analysis Tool</strong> – Real-time text emotion detection<br>
+  🔢 <strong>Sorting Algorithm Visualizer</strong> – Interactive visualization of algorithms
 </p>
 
 <p align="center">
@@ -79,7 +81,7 @@
 </p>
 
 <p align="center">
-  <strong>Like my work? Star a repo ⭐ • Always open to collaboration!</strong>
+  <strong>Like my work? Star a repo ⭐ • Open to exciting collaborations!</strong>
 </p>
 
 <p align="center">
