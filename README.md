@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Shakya</h1>
 <h3 align="center">AI & Machine Learning Developer | Crafting Intelligent Solutions</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Applying+AI+to+Drones+%26+Edge+Devices;Real-Time+Computer+Vision+%26+Intelligence;PyTorch+%7C+TensorFlow+%7C+YOLOv11;Generative+AI+%26+Computer+Vision+Expert;Specializing+in+AI+%26+ML+at+SRM+IST" alt="Typing SVG" />
