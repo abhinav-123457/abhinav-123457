@@ -92,43 +92,6 @@
 
 ---
 
-<h3 align="center">🔥 Featured Projects</h3>
-
-<p align="center">
-
-**Claims AI Processor** – Accurate vehicle damage detection using YOLO  
-[View Repository](https://github.com/abhinav-123457/Claims-AI-Processor)
-
-<br><br>
-
-**AI-Powered Drone Vision** – Real-time object detection & navigation on Jetson Nano  
-[View Repository](https://github.com/abhinav-123457?tab=repositories) *(Active development)*
-
-<br><br>
-
-**Stable Diffusion Image Generator** – Create images from text prompts  
-[View Repository](https://github.com/abhinav-123457/stable-diffusion-image-generator)
-
-<br><br>
-
-**Diabetes Prediction System** – Predictive ML model for diabetes risk  
-[View Repository](https://github.com/abhinav-123457/Diabetes-Prediction-System)
-
-<br><br>
-
-**CYPHER AI Chatbot** – Intelligent conversational AI with NLP  
-[View Repository](https://github.com/abhinav-123457/CYPHER)
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhinav-123457?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">
