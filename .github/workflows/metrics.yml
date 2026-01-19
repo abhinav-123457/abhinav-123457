@@ -1,10 +1,10 @@
 name: Generate Metrics
 
 on:
-  # Schedule the workflow to run daily (adjust cron schedule as needed).
+  # Schedule the workflow to run daily at 6 AM (adjust time if needed)
   schedule:
     - cron: "0 6 * * *"
-  # Trigger manually.
+  # Allow manual runs of the workflow
   workflow_dispatch:
 
 jobs:
@@ -20,12 +20,20 @@ jobs:
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_TOKEN }} # Pass your PAT
-          # Set options for metrics (customize below as you like)
-          base: header, repositories, activity        # Main metrics
-          plugin_activity: yes                        # Activity (e.g., commits, issues)
-          plugin_languages: yes                       # Highlight languages
-          plugin_achievements: yes                    # Display GitHub achievements
-          plugin_stars: yes                           # Total stars earned
-          plugin_lines: yes                           # Lines of code written
-          config_timezone: Asia/Kolkata               # Set your timezone
+          token: ${{ secrets.GH_TOKEN }} # GitHub Personal Access Token
+          base: header, repositories, activity             # Main metrics base
+          plugin_activity: yes                             # Display recent activity
+          plugin_languages: yes                            # Show programming languages usage
+          plugin_achievements: yes                         # Display GitHub achievements
+          plugin_stars: yes                                # Display total stars earned
+          plugin_lines: yes                                # Lines of code statistics
+          plugin_isocalendar: yes                          # GitHub contributions calendar
+          plugin_isocalendar_duration: full-year           # Full contributions calendar
+          plugin_prs: yes                                  # Show pull request activity
+          plugin_prs_details: all                          # Include details on PRs created, reviewed, merged
+          plugin_repositories: yes                         # Highlight top repositories
+          plugin_repositories_forks: yes                   # Include fork-related repositories
+          plugin_repositories_affiliations: all            # Show contributions to private and public repositories
+          plugin_topics: yes                               # Highlight GitHub topics
+          plugin_followup: yes                             # Highlight people you've followed
+          config_timezone: Asia/Kolkata                    # Set to Indian Standard Time (IST)
