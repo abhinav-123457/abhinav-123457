@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/abhinav-123457?label=Followers&style=flat-square&color=38BDF8" alt="GitHub followers" />
 </p>
 
-<p align="center">
+<p>
   <strong>🔭 Currently exploring AI-powered drone vision for navigation & object detection</strong><br>
   <strong>✈️ Applying AI to drones: Real-time vision, edge intelligence & autonomous systems</strong><br>
   <strong>🌱 Mastering YOLOv11, Jetson Nano deployment, Diffusion Models & embedded AI</strong><br>
