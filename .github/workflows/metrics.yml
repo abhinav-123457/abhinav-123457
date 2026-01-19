@@ -1,0 +1,31 @@
+name: Generate Metrics
+
+on:
+  # Schedule the workflow to run daily (adjust cron schedule as needed).
+  schedule:
+    - cron: "0 6 * * *"
+  # Trigger manually.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Run lowlighter/metrics Action.
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }} # Pass your PAT
+          # Set options for metrics (customize below as you like)
+          base: header, repositories, activity        # Main metrics
+          plugin_activity: yes                        # Activity (e.g., commits, issues)
+          plugin_languages: yes                       # Highlight languages
+          plugin_achievements: yes                    # Display GitHub achievements
+          plugin_stars: yes                           # Total stars earned
+          plugin_lines: yes                           # Lines of code written
+          config_timezone: Asia/Kolkata               # Set your timezone
