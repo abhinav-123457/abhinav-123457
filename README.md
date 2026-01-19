@@ -4,7 +4,7 @@
 <h1 align="center">AI & Machine Learning Developer | Crafting Intelligent Solutions</12>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&repeat=true&lines=Applying+AI+to+Drones+%26+Edge+Devices;Computer+Vision+%26+Intelligence;PyTorch+%7C+TensorFlow+%7C+YOLOv11;Generative+AI+%26+Drones;Specialized+in+AI+%26+ML+at+SRM+IST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&repeat=true&lines=Applying+AI+to+Drones+%26+Edge+Devices;Computer+Vision+%26+Intelligence;PyTorch+%7C+TensorFlow+%7C+YOLOv11;Generative+AI+%26+Drones" alt="Typing SVG" />
 </p>
 
 <p align="center">
