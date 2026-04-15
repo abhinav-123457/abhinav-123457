@@ -105,7 +105,6 @@
   &nbsp;
   <a href="https://github.com/abhinav-123457">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-123457&theme=tokyonight)
   </a>
 </p>
 
@@ -116,3 +115,4 @@
 <p align="center">
   Thanks for visiting! 👀
 </p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav-123457&theme=tokyonight)
