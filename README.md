@@ -23,7 +23,7 @@ abhinav = {
     "education"  : "B.Tech CSE (AI & ML), SRM Institute of Science and Technology — graduating May 2027",
     "location"   : "Delhi-NCR, India",
     "focus"      : ["Agentic AI systems", "RAG + retrieval pipelines", "Computer vision"],
-    "experience" : ["AI/ML Intern @ Extion Infotech", "Edge AI / Drone work @ Canopy Puffs"],
+    "experience" : ["AI/ML Intern @ Extion Infotech", "AI Research Intern / Drone Work @ Indian Army !3th Garwahal Rifles", "Edge AI / Drone work @ Canopy Puffs"],
     "looking_for": "AI Engineer / ML Engineer / LLM Engineer internships and roles",
 }
 ```
